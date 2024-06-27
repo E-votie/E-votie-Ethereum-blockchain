@@ -1,0 +1,20 @@
+{
+  "name": "evoting-contract",
+  "version": "1.0.0",
+  "description": "API for Evoting blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "express": "4.19.2",
+    "nodemon": "3.1.2"
+  },
+  "author": "lahiruthpala",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  }
+}
